@@ -112,7 +112,7 @@
   {
     "Id": "11",
     "Brand": "Jamieson",
-    "ProductName": "MultiVitamins",
+    "ProductName": "MultiVitaminsUltra",
     "GraphicName": "BottleTablets",
     "CostPrice": "22.50",
     "MSRP": "25.55",
@@ -121,7 +121,7 @@
     "Description": "This is Multivitamins and This is Multivitamins and This is Multivitamins"
   },
   {
-    "Id": "11",
+    "Id": "12",
     "Brand": "Jamieson",
     "ProductName": "CaloriesC",
     "GraphicName": "BottleTablets",
