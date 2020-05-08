@@ -123,13 +123,13 @@
   {
     "Id": "11",
     "Brand": "Jamieson",
-    "ProductName": "Calcium",
+    "ProductName": "CaloriesC",
     "GraphicName": "BottleTablets",
     "CostPrice": "42.50",
     "MSRP": "65.55",
     "QtyOnHand": "80",
     "QtyonONBackOrder": "52",
-    "Description": "This is Calcium and This is Calcium and This is Calcium"
+    "Description": "This is CaloriesC and This is CaloriesC and This is CaloriesC"
   },
   {
     "Id": "13",
